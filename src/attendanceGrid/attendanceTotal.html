@@ -24,18 +24,10 @@
                 field-type="time" 
                 field-value="$ctrl.attendance.schedule.endTime"
                 is-edit-mode="$ctrl.isEditMode" is-required="true"></editable-field>
-            <!--<span class="c-schedule__endTime">{{$ctrl.attendance.schedule.endTime}}</span> -->
         </div>
         <div class="l-attendanceActions">
             <button ng-show="$ctrl.displayActionBtn" class="c-btn c-btn--primary" ng-click="attendanceTotal.$valid && $ctrl.onModeChange()">{{$ctrl.isEditMode ? 'Save' : 'Update'}}</button>
             <button class="c-btn c-btn--secondary" ng-click="$ctrl.onCancel()" ng-if="$ctrl.isEditMode">Cancel</button>
-            <!--
-            isValid: {{attendanceTotal.$valid}}
-            <br/>
-            presentStudents: {{$ctrl.attendance.presentStudents}} <br/>
-            enrooledStudents: {{$ctrl.attendance.enrolledStudents}} <br/>
-            startTime: {{$ctrl.attendance.schedule.startTime}}
-            -->
         </div>
     </form>
 </div>

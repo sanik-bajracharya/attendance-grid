@@ -1,8 +1,6 @@
 
 /* @ngInject */
 class AttendanceGridService {
-    //static $inject = ['$http', '$q'];
-
     constructor($http, $q) {
        this.$http = $http;
        this.$q = $q;
@@ -92,7 +90,6 @@ class AttendanceGridService {
         let sectionMap = this._generateSectionCourseMap(courses);
 
         sectionMap.forEach((courseName, sectionId) => {
-            //console.log('Searching for :' + sectionId + ' = ' + courseName);
             let section = {
                 id: sectionId,
                 name: courseName
@@ -155,7 +152,6 @@ class AttendanceGridService {
         for (let idx=0; idx < courses.length; idx++) {
             let course = courses[idx];
             if (course) {
-                //console.log(course['section_period_id'] + ' -- ' + course['name']);
                 result.set(course['section_period_id'], course['name']);
             }
         }
