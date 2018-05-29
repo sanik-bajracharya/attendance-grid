@@ -15,6 +15,11 @@ Location to demo_data.json => `public/_assets/data/demo_data.json`
 ## Screenshots (Chrome)
 
 - Overall view
+  - Example `English 8A (344) / 2017-11-13`
+    - `English 8A` => course name
+    - `(344)` => section number
+    - `14 out of 22`, where `14` is present students and `22` is enrolled students
+    - `9:20 AM to 10:47 AM` => schedule
 <img width="930" alt="attendance-grid-1" src="https://user-images.githubusercontent.com/2719031/40634347-14b0230c-62ba-11e8-8e6a-3d32807ebc02.png">
 
 - On cell hover
