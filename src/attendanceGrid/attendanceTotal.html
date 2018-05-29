@@ -1,0 +1,41 @@
+<div class="c-attendanceTotal" ng-if="$ctrl.attendance.absenceTotalId" ng-mouseover="$ctrl.displayActionBtn = true" ng-mouseleave="$ctrl.onMouseleave()">
+    <form name="attendanceTotal">
+        <div class="l-attendance">
+            <editable-field class="c-attendanceTotal__presentStudents" 
+                field-type="number" 
+                field-value="$ctrl.attendance.presentStudents"
+                min="0", 
+                max="$ctrl.attendance.enrolledStudents"
+                on-update="$ctrl.update('presentStudents', value)" 
+                is-edit-mode="$ctrl.isEditMode" is-required="true"></editable-field>
+            <span ng-if="$ctrl.attendance.absenceTotalId">out of</span>
+            <editable-field class="c-attendanceTotal__enrolledStudents" 
+                field-type="number" 
+                field-value="$ctrl.attendance.enrolledStudents" 
+                is-edit-mode="$ctrl.isEditMode"></editable-field>
+        </div>
+        <div class="c-schedule">
+            <editable-field class="c-schedule__startTime" 
+                field-type="time" 
+                field-value="$ctrl.attendance.schedule.startTime"
+                is-edit-mode="$ctrl.isEditMode" is-required="true"></editable-field>
+            <span> to </span>
+            <editable-field class="c-schedule__endTime" 
+                field-type="time" 
+                field-value="$ctrl.attendance.schedule.endTime"
+                is-edit-mode="$ctrl.isEditMode" is-required="true"></editable-field>
+            <!--<span class="c-schedule__endTime">{{$ctrl.attendance.schedule.endTime}}</span> -->
+        </div>
+        <div class="l-attendanceActions">
+            <button ng-show="$ctrl.displayActionBtn" class="c-btn c-btn--primary" ng-click="attendanceTotal.$valid && $ctrl.onModeChange()">{{$ctrl.isEditMode ? 'Save' : 'Update'}}</button>
+            <button class="c-btn c-btn--secondary" ng-click="$ctrl.onCancel()" ng-if="$ctrl.isEditMode">Cancel</button>
+            <!--
+            isValid: {{attendanceTotal.$valid}}
+            <br/>
+            presentStudents: {{$ctrl.attendance.presentStudents}} <br/>
+            enrooledStudents: {{$ctrl.attendance.enrolledStudents}} <br/>
+            startTime: {{$ctrl.attendance.schedule.startTime}}
+            -->
+        </div>
+    </form>
+</div>

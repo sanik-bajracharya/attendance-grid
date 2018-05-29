@@ -1,0 +1,15 @@
+<div class="c-pageTitle">{{$ctrl.pageTitle}}</div>
+<div class="c-attendanceGrid l-table">
+    <div class="l-row">
+        <div class="l-cell is-empty">{{$ctrl.emptyCellTitle}}</div>
+        <div class="c-attendanceGrid__date l-cell" ng-repeat="attendanceDate in $ctrl.attendanceGrid.dates">{{attendanceDate}}</div>
+    </div>
+    
+    <div class="c-section l-row" ng-repeat="section in $ctrl.attendanceGrid.sections track by section.id">
+        
+        <div class="c-section__name l-cell">{{section.name}} ({{section.id}})</div>
+        <div class="l-cell l-sectionCell" ng-repeat="attendance in section.attendances">
+            <attendance-total attendance="attendance" on-update="$ctrl.onUpdate(attendance)"></attendance-total>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+<span class="c-editableField" ng-switch="$ctrl.isEditMode">
+    <input class="c-editableField__input" ng-switch-when="true" 
+        type="{{$ctrl.fieldType}}" 
+        min="{{$ctrl.min}}" 
+        max="{{$ctrl.max}}" 
+        ng-model="$ctrl.fieldValue"
+        ng-required="$ctrl.isRequired">
+    <span ng-switch-default>{{$ctrl.fieldType === "time"? ($ctrl.fieldValue | date: 'hh:mm a') : $ctrl.fieldValue}}</span>
+</span>

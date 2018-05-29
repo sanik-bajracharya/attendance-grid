@@ -1,0 +1,101 @@
+@import './common/variables';
+
+body {
+    font-family: Avenir, sans-serif;
+    font-size: 12px;
+    background-color: #FFF;
+    color: #FFF;
+}
+
+.c-pageTitle {
+  height: 100px;
+  font-size: 25px;
+  padding: 40px 25px;
+  font-weight: bold;
+  background: url("../public/_assets/images/bb.png") top repeat;
+  letter-spacing: 5px;
+  color: fadeout(@white, 10%);
+}
+
+.l-table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 1px;
+    width: 100%;
+}
+
+.l-row {
+    display: table-row;
+}
+
+.l-cell {
+    display: table-cell;
+    background-color: @lightGray;
+    padding: 10px;
+    min-width: 250px;
+
+    &.is-empty {
+        background-color: #737373;
+        font-size: 20px;
+        text-align: right;
+    }
+}
+
+.c-btn {
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 2px;
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 500;
+    white-space: nowrap;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition: all .2s ease-in-out;
+  
+    &--secondary {
+      color: @white;
+      background-color: @gray;
+      border-color: @gray;
+  
+      &:hover:not([data-disabled="disabled"]) {
+        background-color: darken(@gray, 10%);
+        border-color: darken(@gray, 10%);
+      }
+  
+      &:focus {
+        outline: 0;
+      }
+  
+      &:active:not([data-disabled="disabled"]) {
+        background-color: darken(@gray, 20%);
+        border-color: darken(@gray, 20%);
+      }
+  
+      &[data-disabled="disabled"] {
+        color: fadeout(@white, 70%);
+        cursor: default;
+      }
+    }
+  
+    &--primary {
+      color: @white;
+      background: @blue;
+      border-color: @blue;
+  
+      &:hover {
+        background-color: darken(@blue, 10%);
+        border-color: darken(@blue, 10%);
+      }
+  
+      &:active {
+        background-color: darken(@blue, 20%);
+        border-color: darken(@blue, 20%);
+      }
+  
+      &:focus {
+        outline: 0;
+      }
+    }
+  }
