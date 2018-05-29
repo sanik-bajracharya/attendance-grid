@@ -12,7 +12,7 @@ Attendance grid displays absence total date vs section
 Location to demo_data.json => `public/_assets/data/demo_data.json`
 
 
-## Screenshots
+## Screenshots (Chrome)
 
 - Overall view
 <img width="930" alt="attendance-grid-1" src="https://user-images.githubusercontent.com/2719031/40634347-14b0230c-62ba-11e8-8e6a-3d32807ebc02.png">
