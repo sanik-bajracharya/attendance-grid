@@ -4,9 +4,9 @@ Attendance grid displays absence total date vs section
 
 ## Usage
 
-
-1. Install dependencies `npm install`
-2. Start dev server `npm run dev` open [http://localhost:2992](http://localhost:2992)
+1. Clone https://github.com/sanik-bajracharya/attendance-grid.git
+2. Install dependencies `npm install`
+3. Start dev server `npm run dev` open [http://localhost:2992](http://localhost:2992)
 
 
 Location to demo_data.json => `public/_assets/data/demo_data.json`
