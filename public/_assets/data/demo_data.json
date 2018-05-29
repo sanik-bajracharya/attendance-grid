@@ -1,0 +1,1404 @@
+{
+	"results": {
+		"class_absence_totals": {
+			"2017-11-13": {
+				"344": {
+					"class_absence_total_id": "7381",
+					"ps_section_meeting_id": null,
+					"section_period_id": "344",
+					"date": "2017-11-13",
+					"present_students": 14,
+					"enrolled_students": 22,
+					"from_date": "2017-11-13 16:22:07",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"397": {
+					"class_absence_total_id": "7424",
+					"ps_section_meeting_id": null,
+					"section_period_id": "397",
+					"date": "2017-11-13",
+					"present_students": "9",
+					"enrolled_students": "15",
+					"from_date": "2017-11-13 19:24:45",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-06-30 22:21:23",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"415": {
+					"class_absence_total_id": "7374",
+					"ps_section_meeting_id": null,
+					"section_period_id": "415",
+					"date": "2017-11-13",
+					"present_students": "10",
+					"enrolled_students": "14",
+					"from_date": "2017-11-13 16:10:30",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"436": {
+					"class_absence_total_id": "7484",
+					"ps_section_meeting_id": null,
+					"section_period_id": "436",
+					"date": "2017-11-13",
+					"present_students": "14",
+					"enrolled_students": "19",
+					"from_date": "2017-11-13 23:54:32",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Science Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-07-17 11:00:10",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"448": {
+					"class_absence_total_id": "7485",
+					"ps_section_meeting_id": null,
+					"section_period_id": "448",
+					"date": "2017-11-13",
+					"present_students": "17",
+					"enrolled_students": "20",
+					"from_date": "2017-11-14 00:23:58",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:26",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"710": {
+					"class_absence_total_id": "7468",
+					"ps_section_meeting_id": null,
+					"section_period_id": "710",
+					"date": "2017-11-13",
+					"present_students": "34",
+					"enrolled_students": "41",
+					"from_date": "2017-11-13 22:53:11",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-07-17 11:00:10",
+						"thru_date": null,
+						"active": "1"
+					}
+				}
+			},
+			"2017-11-14": {
+				"344": {
+					"class_absence_total_id": "7540",
+					"ps_section_meeting_id": null,
+					"section_period_id": "344",
+					"date": "2017-11-14",
+					"present_students": "16",
+					"enrolled_students": "21",
+					"from_date": "2017-11-14 16:24:21",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"397": {
+					"class_absence_total_id": "7503",
+					"ps_section_meeting_id": null,
+					"section_period_id": "397",
+					"date": "2017-11-14",
+					"present_students": "10",
+					"enrolled_students": "15",
+					"from_date": "2017-11-14 03:23:03",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-06-30 22:21:23",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"415": {
+					"class_absence_total_id": "7515",
+					"ps_section_meeting_id": null,
+					"section_period_id": "415",
+					"date": "2017-11-14",
+					"present_students": "10",
+					"enrolled_students": "14",
+					"from_date": "2017-11-14 03:23:05",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"436": {
+					"class_absence_total_id": "7666",
+					"ps_section_meeting_id": null,
+					"section_period_id": "436",
+					"date": "2017-11-14",
+					"present_students": "15",
+					"enrolled_students": "18",
+					"from_date": "2017-11-15 00:11:51",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Science Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-07-17 11:00:10",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"448": {
+					"class_absence_total_id": "7569",
+					"ps_section_meeting_id": null,
+					"section_period_id": "448",
+					"date": "2017-11-14",
+					"present_students": "18",
+					"enrolled_students": "20",
+					"from_date": "2017-11-14 17:57:51",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:26",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"710": {
+					"class_absence_total_id": "7659",
+					"ps_section_meeting_id": null,
+					"section_period_id": "710",
+					"date": "2017-11-14",
+					"present_students": "39",
+					"enrolled_students": "41",
+					"from_date": "2017-11-14 22:59:55",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Science Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-07-11 23:00:11",
+						"thru_date": null,
+						"active": "1"
+					}
+				}
+			},
+			"2017-11-17": {
+				"344": {
+					"class_absence_total_id": "8422",
+					"ps_section_meeting_id": null,
+					"section_period_id": "344",
+					"date": "2017-11-17",
+					"present_students": "20",
+					"enrolled_students": "22",
+					"from_date": "2017-11-17 03:23:58",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": null,
+						"primary_student_group_id": null,
+						"title": null,
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-11-18 19:29:05",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"366": {
+					"class_absence_total_id": "8420",
+					"ps_section_meeting_id": null,
+					"section_period_id": "366",
+					"date": "2017-11-17",
+					"present_students": "15",
+					"enrolled_students": "22",
+					"from_date": "2017-11-17 03:23:58",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"395": {
+					"class_absence_total_id": "8551",
+					"ps_section_meeting_id": null,
+					"section_period_id": "395",
+					"date": "2017-11-17",
+					"present_students": "12",
+					"enrolled_students": "16",
+					"from_date": "2017-11-17 18:56:15",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-06-30 22:21:23",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"397": {
+					"class_absence_total_id": "8558",
+					"ps_section_meeting_id": null,
+					"section_period_id": "397",
+					"date": "2017-11-17",
+					"present_students": "12",
+					"enrolled_students": "16",
+					"from_date": "2017-11-17 19:27:57",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-06-30 22:21:23",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"415": {
+					"class_absence_total_id": "8416",
+					"ps_section_meeting_id": null,
+					"section_period_id": "415",
+					"date": "2017-11-17",
+					"present_students": "11",
+					"enrolled_students": "14",
+					"from_date": "2017-11-17 03:23:58",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"434": {
+					"class_absence_total_id": "8417",
+					"ps_section_meeting_id": null,
+					"section_period_id": "434",
+					"date": "2017-11-17",
+					"present_students": "13",
+					"enrolled_students": "18",
+					"from_date": "2017-11-17 03:23:58",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Social Studies Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:55",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"436": {
+					"class_absence_total_id": "8418",
+					"ps_section_meeting_id": null,
+					"section_period_id": "436",
+					"date": "2017-11-17",
+					"present_students": "17",
+					"enrolled_students": "19",
+					"from_date": "2017-11-17 03:23:58",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Science Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-07-17 11:00:10",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"448": {
+					"class_absence_total_id": "8533",
+					"ps_section_meeting_id": null,
+					"section_period_id": "448",
+					"date": "2017-11-17",
+					"present_students": "19",
+					"enrolled_students": "19",
+					"from_date": "2017-11-17 18:09:23",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:26",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"716": {
+					"class_absence_total_id": "8400",
+					"ps_section_meeting_id": null,
+					"section_period_id": "716",
+					"date": "2017-11-17",
+					"present_students": "241",
+					"enrolled_students": "253",
+					"from_date": "2017-11-17 03:23:52",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": null,
+						"primary_student_group_id": null,
+						"title": null,
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-11-18 19:29:05",
+						"thru_date": null,
+						"active": "1"
+					}
+				}
+			},
+			"2017-11-15": {
+				"366": {
+					"class_absence_total_id": "7692",
+					"ps_section_meeting_id": null,
+					"section_period_id": "366",
+					"date": "2017-11-15",
+					"present_students": "15",
+					"enrolled_students": "21",
+					"from_date": "2017-11-15 03:20:40",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:24",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"395": {
+					"class_absence_total_id": "8179",
+					"ps_section_meeting_id": null,
+					"section_period_id": "395",
+					"date": "2017-11-15",
+					"present_students": "15",
+					"enrolled_students": "16",
+					"from_date": "2017-11-15 23:39:55",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-06-30 22:21:23",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"415": {
+					"class_absence_total_id": "7512",
+					"ps_section_meeting_id": null,
+					"section_period_id": "415",
+					"date": "2017-11-15",
+					"present_students": "9",
+					"enrolled_students": "14",
+					"from_date": "2017-11-14 03:23:05",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:24",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"434": {
+					"class_absence_total_id": "8140",
+					"ps_section_meeting_id": null,
+					"section_period_id": "434",
+					"date": "2017-11-15",
+					"present_students": "11",
+					"enrolled_students": "18",
+					"from_date": "2017-11-15 21:21:47",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Social Studies Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:55",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"721": {
+					"class_absence_total_id": "8169",
+					"ps_section_meeting_id": null,
+					"section_period_id": "721",
+					"date": "2017-11-15",
+					"present_students": "15",
+					"enrolled_students": "20",
+					"from_date": "2017-11-15 22:54:05",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Art Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:26",
+						"thru_date": null,
+						"active": "1"
+					}
+				}
+			},
+			"2017-11-16": {
+				"366": {
+					"class_absence_total_id": "8232",
+					"ps_section_meeting_id": null,
+					"section_period_id": "366",
+					"date": "2017-11-16",
+					"present_students": "17",
+					"enrolled_students": "22",
+					"from_date": "2017-11-16 18:06:42",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"395": {
+					"class_absence_total_id": "8249",
+					"ps_section_meeting_id": null,
+					"section_period_id": "395",
+					"date": "2017-11-16",
+					"present_students": "14",
+					"enrolled_students": "16",
+					"from_date": "2017-11-16 19:24:44",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Math Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2016-06-30 22:21:23",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"415": {
+					"class_absence_total_id": "8203",
+					"ps_section_meeting_id": null,
+					"section_period_id": "415",
+					"date": "2017-11-16",
+					"present_students": "13",
+					"enrolled_students": "14",
+					"from_date": "2017-11-16 17:31:44",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"434": {
+					"class_absence_total_id": "8300",
+					"ps_section_meeting_id": null,
+					"section_period_id": "434",
+					"date": "2017-11-16",
+					"present_students": "14",
+					"enrolled_students": "18",
+					"from_date": "2017-11-16 21:30:26",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Social Studies Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:55",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"721": {
+					"class_absence_total_id": "8613",
+					"ps_section_meeting_id": null,
+					"section_period_id": "721",
+					"date": "2017-11-16",
+					"present_students": "15",
+					"enrolled_students": "17",
+					"from_date": "2017-11-17 21:59:18",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": "Unable to expand property.",
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "Art Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:26",
+						"thru_date": null,
+						"active": "1"
+					}
+				}
+			}
+		},
+		"class_absences": {
+			"2017-11-14": {
+				"344": {
+					"class_absence_id": "25553",
+					"student_id": "345",
+					"ps_section_meeting_id": null,
+					"section_period_id": "344",
+					"date": "2017-11-14",
+					"absence_type_id": "10",
+					"comments": null,
+					"from_date": "2017-11-14 16:24:21",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": {
+						"absence_type_id": "10",
+						"school_id": "2",
+						"name": "Truant - Unexcused absence or more than 29 minutes late",
+						"code": "X",
+						"order_key": "3000",
+						"in_school": "0",
+						"for_class": "1",
+						"red_flag_if_in_school": "0",
+						"hidden": "0",
+						"from_date": "2017-08-10 18:48:04",
+						"thru_date": null,
+						"active": "1"
+					},
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				},
+				"415": {
+					"class_absence_id": "25491",
+					"student_id": "345",
+					"ps_section_meeting_id": null,
+					"section_period_id": "415",
+					"date": "2017-11-14",
+					"absence_type_id": "10",
+					"comments": null,
+					"from_date": "2017-11-14 16:11:30",
+					"thru_date": null,
+					"active": "1",
+					"absence_type": {
+						"absence_type_id": "10",
+						"school_id": "2",
+						"name": "Truant - Unexcused absence or more than 29 minutes late",
+						"code": "X",
+						"order_key": "3000",
+						"in_school": "0",
+						"for_class": "1",
+						"red_flag_if_in_school": "0",
+						"hidden": "0",
+						"from_date": "2017-08-10 18:48:04",
+						"thru_date": null,
+						"active": "1"
+					},
+					"staff_member": {
+						"school_id": "2",
+						"primary_student_group_id": null,
+						"title": "English Teacher",
+						"home_phone": null,
+						"cell_phone": null,
+						"school_phone": null,
+						"street": null,
+						"city": null,
+						"state": null,
+						"zip": null,
+						"ssn": null,
+						"from_date": "2017-08-04 09:00:22",
+						"thru_date": null,
+						"active": "1"
+					}
+				}
+			}
+		},
+		"courses": [
+			{
+				"course_id": "35",
+				"name": "English 8A",
+				"term_id": "4",
+				"period_number": "1",
+				"section_number": "15",
+				"period_name": "1",
+				"course_name": "English 8A",
+				"course_number": "01036NA",
+				"sectionid": "344",
+				"school_id": "2",
+				"section_period_id": "344",
+				"section_period_ids": [
+					344
+				],
+				"section_display_name": "[15] (1)"
+			},
+			{
+				"course_id": "39",
+				"name": "English Enrichment 8A",
+				"term_id": "4",
+				"period_number": "2",
+				"section_number": "1",
+				"period_name": "2",
+				"course_name": "English Enrichment 8A",
+				"course_number": "01996NA08",
+				"sectionid": "366",
+				"school_id": "2",
+				"section_period_id": "366",
+				"section_period_ids": [
+					366
+				],
+				"section_display_name": "[1] (2)"
+			},
+			{
+				"course_id": "45",
+				"name": "Technology 8A",
+				"term_id": "4",
+				"period_number": "3",
+				"section_number": "3",
+				"period_name": "3",
+				"course_name": "Technology 8A",
+				"course_number": "10003NA",
+				"sectionid": "448",
+				"school_id": "2",
+				"section_period_id": "448",
+				"section_period_ids": [
+					448
+				],
+				"section_display_name": "[3] (3)"
+			},
+			{
+				"course_id": "43",
+				"name": "Math 8A",
+				"term_id": "4",
+				"period_number": "4",
+				"section_number": "9",
+				"period_name": "4",
+				"course_name": "Math 8A",
+				"course_number": "02038NA",
+				"sectionid": "395",
+				"school_id": "2",
+				"section_period_id": "395",
+				"section_period_ids": [
+					395
+				],
+				"section_display_name": "[9] (4)"
+			},
+			{
+				"course_id": "42",
+				"name": "Math Enrichment 8A",
+				"term_id": "4",
+				"period_number": "5",
+				"section_number": "11",
+				"period_name": "5",
+				"course_name": "Math Enrichment 8A",
+				"course_number": "02996NA8",
+				"sectionid": "397",
+				"school_id": "2",
+				"section_period_id": "397",
+				"section_period_ids": [
+					397
+				],
+				"section_display_name": "[11] (5)"
+			},
+			{
+				"course_id": "48",
+				"name": "US History 8A",
+				"term_id": "4",
+				"period_number": "6",
+				"section_number": "2",
+				"period_name": "6",
+				"course_name": "US History 8A",
+				"course_number": "04101NA",
+				"sectionid": "434",
+				"school_id": "2",
+				"section_period_id": "434",
+				"section_period_ids": [
+					434
+				],
+				"section_display_name": "[2] (6)"
+			},
+			{
+				"course_id": "51",
+				"name": "Physical Science 8A",
+				"term_id": "4",
+				"period_number": "7",
+				"section_number": "35",
+				"period_name": "7",
+				"course_name": "Physical Science 8A",
+				"course_number": "03011NA",
+				"sectionid": "436",
+				"school_id": "2",
+				"section_period_id": "436",
+				"section_period_ids": [
+					436
+				],
+				"section_display_name": "[35] (7)"
+			},
+			{
+				"course_id": "47",
+				"name": "Advisory MS 8A",
+				"term_id": "4",
+				"period_number": "8",
+				"section_number": "6",
+				"period_name": "8",
+				"course_name": "Advisory MS 8A",
+				"course_number": "22106NA8",
+				"sectionid": "415",
+				"school_id": "2",
+				"section_period_id": "415",
+				"section_period_ids": [
+					415
+				],
+				"section_display_name": "[6] (8)"
+			},
+			{
+				"course_id": "105",
+				"name": "Advisory Enrichment 1A MS (.1 credit)",
+				"term_id": "4",
+				"period_number": "9",
+				"section_number": "13",
+				"period_name": "9",
+				"course_name": "Advisory Enrichment 1A MS (.1 credit)",
+				"course_number": "22106EA1",
+				"sectionid": "710",
+				"school_id": "2",
+				"section_period_id": "710",
+				"section_period_ids": [
+					710
+				],
+				"section_display_name": "[13] (9)"
+			},
+			{
+				"course_id": "107",
+				"name": "Advisory Enrichment 2A MS (.1 credit)",
+				"term_id": "4",
+				"period_number": "10",
+				"section_number": "14",
+				"period_name": "10",
+				"course_name": "Advisory Enrichment 2A MS (.1 credit)",
+				"course_number": "22106EA2",
+				"sectionid": "721",
+				"school_id": "2",
+				"section_period_id": "721",
+				"section_period_ids": [
+					721
+				],
+				"section_display_name": "[14] (10)"
+			},
+			{
+				"course_id": "106",
+				"name": "Friday Festival MS A (.1 credit)",
+				"term_id": "4",
+				"period_number": "11",
+				"section_number": "2",
+				"period_name": "11",
+				"course_name": "Friday Festival MS A (.1 credit)",
+				"course_number": "22106FA",
+				"sectionid": "716",
+				"school_id": "2",
+				"section_period_id": "716",
+				"section_period_ids": [
+					716
+				],
+				"section_display_name": "[2] (11)"
+			}
+		],
+		"schedules": {
+			"2017-11-13": [
+				{
+					"start_time": "08:00:00",
+					"end_time": "08:17:00",
+					"section_period_id": "415",
+					"name": "Advisory MS 8A, Clifton [6] (8)"
+				},
+				{
+					"start_time": "09:20:00",
+					"end_time": "10:47:00",
+					"section_period_id": "344",
+					"name": "English 8A, Clifton [15] (1)"
+				},
+				{
+					"start_time": "09:50:00",
+					"end_time": "11:17:00",
+					"section_period_id": "448",
+					"name": "Technology 8A, Litmanovich [3] (3)"
+				},
+				{
+					"start_time": "11:20:00",
+					"end_time": "12:47:00",
+					"section_period_id": "397",
+					"name": "Math Enrichment 8A, Morin [11] (5)"
+				},
+				{
+					"start_time": "13:20:00",
+					"end_time": "14:47:00",
+					"section_period_id": "436",
+					"name": "Physical Science 8A, Hauber [35] (7)"
+				},
+				{
+					"start_time": "14:50:00",
+					"end_time": "15:30:00",
+					"section_period_id": "710",
+					"name": "Advisory Enrichment 1A MS (.1 credit), Nham [13] (9)"
+				}
+			],
+			"2017-11-14": [
+				{
+					"start_time": "08:00:00",
+					"end_time": "08:17:00",
+					"section_period_id": "415",
+					"name": "Advisory MS 8A, Clifton [6] (8)"
+				},
+				{
+					"start_time": "08:20:00",
+					"end_time": "09:47:00",
+					"section_period_id": "344",
+					"name": "English 8A, Clifton [15] (1)"
+				},
+				{
+					"start_time": "09:50:00",
+					"end_time": "11:17:00",
+					"section_period_id": "448",
+					"name": "Technology 8A, Litmanovich [3] (3)"
+				},
+				{
+					"start_time": "11:20:00",
+					"end_time": "12:47:00",
+					"section_period_id": "397",
+					"name": "Math Enrichment 8A, Morin [11] (5)"
+				},
+				{
+					"start_time": "13:20:00",
+					"end_time": "14:47:00",
+					"section_period_id": "436",
+					"name": "Physical Science 8A, Hauber [35] (7)"
+				},
+				{
+					"start_time": "14:50:00",
+					"end_time": "15:30:00",
+					"section_period_id": "710",
+					"name": "Advisory Enrichment 1A MS (.1 credit), Nham [13] (9)"
+				}
+			],
+			"2017-11-15": [
+				{
+					"start_time": "09:30:00",
+					"end_time": "09:47:00",
+					"section_period_id": "415",
+					"name": "Advisory MS 8A, Clifton [6] (8)"
+				},
+				{
+					"start_time": "09:50:00",
+					"end_time": "11:17:00",
+					"section_period_id": "366",
+					"name": "English Enrichment 8A, Clifton [1] (2)"
+				},
+				{
+					"start_time": "11:20:00",
+					"end_time": "12:47:00",
+					"section_period_id": "395",
+					"name": "Math 8A, Morin [9] (4)"
+				},
+				{
+					"start_time": "13:20:00",
+					"end_time": "14:47:00",
+					"section_period_id": "434",
+					"name": "US History 8A, Barker [2] (6)"
+				},
+				{
+					"start_time": "14:50:00",
+					"end_time": "15:30:00",
+					"section_period_id": "721",
+					"name": "Advisory Enrichment 2A MS (.1 credit), Carey [14] (10)"
+				}
+			],
+			"2017-11-16": [
+				{
+					"start_time": "09:30:00",
+					"end_time": "09:47:00",
+					"section_period_id": "415",
+					"name": "Advisory MS 8A, Clifton [6] (8)"
+				},
+				{
+					"start_time": "09:50:00",
+					"end_time": "11:17:00",
+					"section_period_id": "366",
+					"name": "English Enrichment 8A, Clifton [1] (2)"
+				},
+				{
+					"start_time": "11:20:00",
+					"end_time": "12:47:00",
+					"section_period_id": "395",
+					"name": "Math 8A, Morin [9] (4)"
+				},
+				{
+					"start_time": "13:20:00",
+					"end_time": "14:47:00",
+					"section_period_id": "434",
+					"name": "US History 8A, Barker [2] (6)"
+				},
+				{
+					"start_time": "14:50:00",
+					"end_time": "15:30:00",
+					"section_period_id": "721",
+					"name": "Advisory Enrichment 2A MS (.1 credit), Carey [14] (10)"
+				}
+			],
+			"2017-11-17": [
+				{
+					"start_time": "08:20:00",
+					"end_time": "09:02:00",
+					"section_period_id": "344",
+					"name": "English 8A, Clifton [15] (1)"
+				},
+				{
+					"start_time": "09:05:00",
+					"end_time": "09:47:00",
+					"section_period_id": "366",
+					"name": "English Enrichment 8A, Clifton [1] (2)"
+				},
+				{
+					"start_time": "09:50:00",
+					"end_time": "10:32:00",
+					"section_period_id": "448",
+					"name": "Technology 8A, Litmanovich [3] (3)"
+				},
+				{
+					"start_time": "10:35:00",
+					"end_time": "11:17:00",
+					"section_period_id": "395",
+					"name": "Math 8A, Morin [9] (4)"
+				},
+				{
+					"start_time": "11:20:00",
+					"end_time": "12:02:00",
+					"section_period_id": "397",
+					"name": "Math Enrichment 8A, Morin [11] (5)"
+				},
+				{
+					"start_time": "12:35:00",
+					"end_time": "13:17:00",
+					"section_period_id": "434",
+					"name": "US History 8A, Barker [2] (6)"
+				},
+				{
+					"start_time": "13:20:00",
+					"end_time": "14:02:00",
+					"section_period_id": "436",
+					"name": "Physical Science 8A, Hauber [35] (7)"
+				},
+				{
+					"start_time": "14:05:00",
+					"end_time": "14:47:00",
+					"section_period_id": "415",
+					"name": "Advisory MS 8A, Clifton [6] (8)"
+				},
+				{
+					"start_time": "14:50:00",
+					"end_time": "15:30:00",
+					"section_period_id": "716",
+					"name": "Friday Festival MS A (.1 credit), Vickaryous [2] (11)"
+				}
+			]
+		},
+		"dates": [
+			{
+				"key": "2017-11-13",
+				"value": "Monday, November 13",
+				"is_holiday": false,
+				"holiday_description": "school day",
+				"is_future": false,
+				"is_requested_date": true
+			},
+			{
+				"key": "2017-11-14",
+				"value": "Tuesday, November 14",
+				"is_holiday": false,
+				"holiday_description": "school day",
+				"is_future": false,
+				"is_requested_date": false
+			},
+			{
+				"key": "2017-11-15",
+				"value": "Wednesday, November 15",
+				"is_holiday": false,
+				"holiday_description": "school day",
+				"is_future": false,
+				"is_requested_date": false
+			},
+			{
+				"key": "2017-11-16",
+				"value": "Thursday, November 16",
+				"is_holiday": false,
+				"holiday_description": "school day",
+				"is_future": false,
+				"is_requested_date": false
+			},
+			{
+				"key": "2017-11-17",
+				"value": "Friday, November 17",
+				"is_holiday": false,
+				"holiday_description": "school day",
+				"is_future": false,
+				"is_requested_date": false
+			}
+		],
+		"settings": {
+			"tz": "America/Los_Angeles"
+		}
+	}
+}

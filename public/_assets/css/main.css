@@ -1,0 +1,40 @@
+.stripe {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 5px;
+    overflow: hidden;
+    background: #e15a49;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 6;
+}
+
+.stripe .band {
+    float: left;
+    width: 20%;
+    height: 100%;
+    min-height: 100%;
+    list-style: none;
+}
+
+.stripe .band.blue {
+    background: #188ba0;
+}
+
+.stripe .band.teal {
+    background: #52c1ac;
+}
+
+.stripe .band.yellow {
+    background: #f0ca4d;
+}
+
+.stripe .band.orange {
+    background: #f99f3e;
+}
+
+.stripe .band.red {
+    background: #e15a49;
+}

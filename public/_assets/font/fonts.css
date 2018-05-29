@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Avenir';
+    src: url('./avenir-next-regular-webfont.eot');
+    src: url('../font/avenir-next-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../font/avenir-next-regular-webfont.woff') format('woff'), url('../font/avenir-next-regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+  }
